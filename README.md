@@ -27,3 +27,8 @@ Derby database
 This is what we have to do. I suggest we first start on the back-end by learning about the offline databases. We have three weeks to figure this out.
 
 *************************************************************************************************************************************
+
+
+#Updates from Emma:
+I just began developing the interfaces after having analysed the requirements of the system
+Hope t get the hard copy translated to the softcopy very soon
